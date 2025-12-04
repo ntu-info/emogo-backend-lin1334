@@ -1,1 +1,4 @@
 fastapi[all]
+pymongo
+python-multipart
+jinja2
